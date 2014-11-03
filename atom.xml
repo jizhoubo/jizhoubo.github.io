@@ -4,7 +4,7 @@
   <subtitle><![CDATA[当你的才华还撑不起你的野心时，你就应该静下心来学习。]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://jizhoubo.com/"/>
-  <updated>2014-11-02T12:46:31.056Z</updated>
+  <updated>2014-11-03T14:53:22.731Z</updated>
   <id>http://jizhoubo.com/</id>
   
   <author>
@@ -13,6 +13,53 @@
   </author>
   
   <generator uri="http://zespia.tw/hexo/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[Scrum Master Training Day 0]]></title>
+    <link href="http://jizhoubo.com/2014/11/03/scrum-master-training-day-0/"/>
+    <id>http://jizhoubo.com/2014/11/03/scrum-master-training-day-0/</id>
+    <published>2014-11-03T14:06:39.000Z</published>
+    <updated>2014-11-03T14:52:58.000Z</updated>
+    <content type="html"><![CDATA[<h2 id="关于">关于</h2>
+<p>这篇文章是我关于Scrum Master Training系列文章的第一篇， 这个系列将主要介绍scrum framework的一些key points以及为何development team用scrum会比传统方式更有效和更能促进团队进步。</p>
+<h3 id="为什么要写这个系列？">为什么要写这个系列？</h3>
+<p>由于被公司派去台湾组建新的branch和新team，并要在那边用scrum的framework做开发，为了保证未来团队应用scrum的质量，公司派我们参加一个为期三天的Scrum Master Training Course。 我将把这三天所学到的knowledge，以及自己思考所得记录在这个博文系列，以期将来可以refer，若是能造福大家更是一件好事。</p>
+<h2 id="Current_Knowledge">Current Knowledge</h2>
+<p>因为公司内部已经有一个scrum team已经run了有半年的时间，尽管我不在其中，但据我的观察以及从其他team member那里，也算管中窥豹大概了解了一些基本的practice：</p>
+<ul>
+<li><p>一个scrum team有<strong>三个角色</strong></p>
+<ul>
+<li>Product Owner</li>
+<li>Team(member)</li>
+<li>Scrum Master</li>
+</ul>
+</li>
+<li><p><strong>Product Backlog</strong>： product owner会决定有哪些function或feature需要被implement，并按照priority排列，team会根据自己能力从product backlog里面按照重要性选择item来在下一个sprint完成</p>
+</li>
+<li><p><strong>Sprint</strong>： scrum team的development cycle叫做sprint，一个sprint长为一周或两周，team要在这个cycle里面争取完成所有承诺完成的item(s)</p>
+</li>
+<li><p><strong>Daily Meeting</strong>: 每天scrum team都要进行一个长约15分钟的stand-up meeting，每个member需要讲三件事：</p>
+<ul>
+<li>昨天完成了什么</li>
+<li>今天将要完成什么</li>
+<li><p>遇到了哪些困难<br>这15分钟的meeting目的是要让所有team member aware所有member的status，已达到sync的目的</p>
+</li>
+<li><p><strong>Sprint Review</strong>: 在sprint结束的时候会有一个sprint review meeting，邀请product owner和stake holders参加，来evaluate product完成的情况并验收，通常会让product owner和stake holder亲自上手感受新功能新特性</p>
+</li>
+<li><p><strong>Retrospective</strong>： 在sprint review之后，team member会gather起来回顾总结刚刚过去的sprint都发生了什么，不管是好的（positive）还是坏的（negative），如果是好的，要怎样带到以后的sprint去， 如果是坏的，怎样在以后的sprint避免掉</p>
+</li>
+</ul>
+<h2 id="Day_0_小结">Day 0 小结</h2>
+<p>以上便是我目前对scrum的所有了解了… 我个人还是对scrum framework充满好奇、憧憬和一些怀疑 （比如如果team里面成员skill level相差太多怎么办，以及如何保证所有成员都能contribute most等等）。 希望能在三天的课程里面了解更多，有更多的input和output，并把这些记录在这个系列博文里</p>
+</li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<h2 id="关于">关于</h2>
+<p>这篇文章是我关于Scrum Master Training系列文章的第一篇， 这个系列将主要介绍scrum framework的一些key points以及为何development team用scrum会比传统方式更有效和更能促进团]]>
+    </summary>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[Hello World]]></title>
